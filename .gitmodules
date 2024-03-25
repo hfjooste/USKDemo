@@ -1,0 +1,3 @@
+[submodule "Plugins/USK"]
+	path = Plugins/USK
+	url = git@github.com:hfjooste/UltimateStarterKit.git
