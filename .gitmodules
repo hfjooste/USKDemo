@@ -1,3 +1,6 @@
 [submodule "Plugins/USK"]
 	path = Plugins/USK
 	url = git@github.com:hfjooste/UltimateStarterKit.git
+[submodule "UnrealPackager"]
+	path = UnrealPackager
+	url = git@github.com:hfjooste/UnrealPackager.git
